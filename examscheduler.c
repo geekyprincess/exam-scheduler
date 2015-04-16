@@ -2,7 +2,9 @@
     We have used the greedy approach and knowledge of data structures like graph, linked lists, arrays etc. to create the scheduler
     It is our original work! 
     
-    The scheduler has been made by geekprincess(aka Ashima) along with Manisha
+  <<<<<<<<<<<<<<<<<<                   Made by  geekyprincess      >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  
+    <<<<<<<<<<<<<<<<<<                  along with one more geeky coder-manisha      >>>>>>>>>>>>>>>>>>>>>>>>>>>>
     Feel free to share, improvise on the code. Happy Coding....If you find any bug, need help...feel free to ping back... :) 
 */
 
