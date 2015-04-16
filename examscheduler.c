@@ -1,5 +1,8 @@
 /*  Project : Exam Scheduler- creates time slots for exam to be held such that no same student has two exams at the same time slot.
-    Made By :  The scheduler has been designed by geekprincess(aka Ashima) along with Manisha
+    We have used the greedy approach and knowledge of data structures like graph, linked lists, arrays etc. to create the scheduler
+    It is our original work! 
+    
+    The scheduler has been made by geekprincess(aka Ashima) along with Manisha
     Feel free to share, improvise on the code. Happy Coding....If you find any bug, need help...feel free to ping back... :) 
 */
 
